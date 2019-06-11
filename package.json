@@ -3,13 +3,13 @@
   "description": "A simple Jekyll theme for words and pictures.",
   "version": "3.1.2",
   "author": "Michael Rose",
-  "homepage": "http://eagle705.github.io/Note/",
+  "homepage": "http://eagle705.github.com/Note/",
   "repository": {
     "type": "git",
     "url": "git://github.com/eagle705/Note.git"
   },
   "bugs": {
-    "url": "https://eagle705.github.io/Note/issues"
+    "url": "https://eagle705.github.com/Note/issues"
   },
   "keywords": [
     "jekyll",

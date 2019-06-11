@@ -41,7 +41,7 @@ If you are creating a new Jekyll site using So Simple follow these steps:
 
 If you want to use So Simple with an existing Jekyll site follow these steps:
 
-1. [Download So Simple](https://eagle705.github.io/Note/archive/master.zip) and unzip.
+1. [Download So Simple](https://eagle705.github.com/Note/archive/master.zip) and unzip.
 2. Rename `Note-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install Jekyll and all dependencies.
 4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
@@ -133,7 +133,7 @@ Used to generate absolute URLs for sitemaps, feeds and for generating canonical 
 Examples:
 
 ```yaml
-url: https://eagle705.github.io/Note
+url: https://eagle705.github.com/Note
 url: http://localhost:4000
 url: http://yourdomain.com
 url:
