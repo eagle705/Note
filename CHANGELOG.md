@@ -12,33 +12,33 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Update NPM dependencies.
 
 ### Added
-- Add Italian translations to `text.yml`. [#318](https://github.com/mmistakes/so-simple-theme/pull/318)
-- Add French translations to `text.yml`. [#316](https://github.com/mmistakes/so-simple-theme/pull/316)
-- Add German translations to `text.yml`. [#311](https://github.com/mmistakes/so-simple-theme/pull/311)
-- Add Spanish translations to `text.yml`. [#300](https://github.com/mmistakes/so-simple-theme/pull/300)
+- Add Italian translations to `text.yml`. [#318](https://eagle705.github.io/Note/pull/318)
+- Add French translations to `text.yml`. [#316](https://eagle705.github.io/Note/pull/316)
+- Add German translations to `text.yml`. [#311](https://eagle705.github.io/Note/pull/311)
+- Add Spanish translations to `text.yml`. [#300](https://eagle705.github.io/Note/pull/300)
 
 ### Fixed
-- Fix security issue with seach-data.json by renaming to `.js` and use `relative_url` filter instead of `absolute_url` for all Lunr search scripts. [#323](https://github.com/mmistakes/so-simple-theme/issues/323)
+- Fix security issue with seach-data.json by renaming to `.js` and use `relative_url` filter instead of `absolute_url` for all Lunr search scripts. [#323](https://eagle705.github.io/Note/issues/323)
 - Remove duplicate `h1` headings for SEO benefit.
-- Fix site title and description for page's with a hero image assigned with `page.image`. [#322](https://github.com/mmistakes/so-simple-theme/issues/322)
-- Correct stylesheet path in documentation. [#309](https://github.com/mmistakes/so-simple-theme/pull/309)
-- Clarify where to customize SCSS variables in `/assets/css/main.scss`. [#293](https://github.com/mmistakes/so-simple-theme/pull/293)
+- Fix site title and description for page's with a hero image assigned with `page.image`. [#322](https://eagle705.github.io/Note/issues/322)
+- Correct stylesheet path in documentation. [#309](https://eagle705.github.io/Note/pull/309)
+- Clarify where to customize SCSS variables in `/assets/css/main.scss`. [#293](https://eagle705.github.io/Note/pull/293)
 
 ## [3.1.1] - 05-03-2018
 
 ### Changed
-- Include creation of `navigation.yml` when "starting fresh". [#270](https://github.com/mmistakes/so-simple-theme/issues/270)
-- Center hero image. [#289](https://github.com/mmistakes/so-simple-theme/pull/289)
+- Include creation of `navigation.yml` when "starting fresh". [#270](https://eagle705.github.io/Note/issues/270)
+- Center hero image. [#289](https://eagle705.github.io/Note/pull/289)
 - Update Font Awesome to version [`5.0.12`](https://github.com/FortAwesome/Font-Awesome/blob/master/CHANGELOG.md).
-- Do not show `<footer>` in `_includes/entry.html` if there is no `site.read_time` or `entry.date` (typical of collection documents). [#283](https://github.com/mmistakes/so-simple-theme/pull/283)
+- Do not show `<footer>` in `_includes/entry.html` if there is no `site.read_time` or `entry.date` (typical of collection documents). [#283](https://eagle705.github.io/Note/pull/283)
 
 ### Fixed
-- Fix documentation links to sample `index.md` file. [#288](https://github.com/mmistakes/so-simple-theme/issues/288)
+- Fix documentation links to sample `index.md` file. [#288](https://eagle705.github.io/Note/issues/288)
 - Fix "Uncaught TypeError: Cannot read property 'addEventListener' of null" in `main.js` when navigation isn't defined.
-- Fix search form from resetting when pressing "Enter". [#278](https://github.com/mmistakes/so-simple-theme/pull/278)
-- Fix author links from not displaying correct when a single link is defined in `_config.yml`. [#280](https://github.com/mmistakes/so-simple-theme/issues/280)
-- Fix search result excerpts that run together because of implied spaces. [#281](https://github.com/mmistakes/so-simple-theme/pull/281)
-- Fix usage of `$site-logo-height` variable in `_global.scss`. [#284](https://github.com/mmistakes/so-simple-theme/pull/284)
+- Fix search form from resetting when pressing "Enter". [#278](https://eagle705.github.io/Note/pull/278)
+- Fix author links from not displaying correct when a single link is defined in `_config.yml`. [#280](https://eagle705.github.io/Note/issues/280)
+- Fix search result excerpts that run together because of implied spaces. [#281](https://eagle705.github.io/Note/pull/281)
+- Fix usage of `$site-logo-height` variable in `_global.scss`. [#284](https://eagle705.github.io/Note/pull/284)
 
 ## [3.1.0] - 03-12-2018
 
@@ -50,10 +50,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add `posts_limit` override to `home` layout to set how many posts are shown (when not using pagination).
 - Add `hidden: true` test post to verify it is excluded from home page pagination.
 - Add note about disabling footer links with `footer_links: false`.
-- Add support for sorting collections by `date` or `title`. [#272](https://github.com/mmistakes/so-simple-theme/pull/272)
+- Add support for sorting collections by `date` or `title`. [#272](https://eagle705.github.io/Note/pull/272)
 
 ### Fixed
-- Fix `remote_theme` name in README documentation. [#268](https://github.com/mmistakes/so-simple-theme/pull/268)
+- Fix `remote_theme` name in README documentation. [#268](https://eagle705.github.io/Note/pull/268)
 
 ## [3.0.1] - 02-06-2018
 
@@ -113,14 +113,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add GitHub issue template.
 
 ### Fixed
-- Fix MathJax CDN path. [#241](https://github.com/mmistakes/so-simple-theme/pull/241)
+- Fix MathJax CDN path. [#241](https://eagle705.github.io/Note/pull/241)
 
 ---
 
 ## [2.3.4] - 09-14-2016
 
 ### Changed
-- Change `spin` to `adjust-hue`. [#201](https://github.com/mmistakes/so-simple-theme/issues/201)
+- Change `spin` to `adjust-hue`. [#201](https://eagle705.github.io/Note/issues/201)
 - Improve readability of .scss files.
 
 ## [2.3.3] - 09-12-2016
@@ -131,8 +131,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [2.3.2] - 09-12-2016
 
 ### Fixed
-- Fix search.js interference with other forms. [#194](https://github.com/mmistakes/so-simple-theme/issues/194)
-- Fix parenthesis Liquid error in `_layouts/post.html`. [#141](https://github.com/mmistakes/so-simple-theme/issues/141)
+- Fix search.js interference with other forms. [#194](https://eagle705.github.io/Note/issues/194)
+- Fix parenthesis Liquid error in `_layouts/post.html`. [#141](https://eagle705.github.io/Note/issues/141)
 
 ## [2.3.1] - 06-01-2016
 
@@ -165,8 +165,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - Improve comments in Sass partials and remove unused styles from Less versions.
-- Enable Disqus comments globally instead of by post. [#94](https://github.com/mmistakes/so-simple-theme/issues/94)
-- Improve Jekyll search feature by removing poorly performing input box overlay on mobile and touch devices [#88](https://github.com/mmistakes/so-simple-theme/issues/88.
+- Enable Disqus comments globally instead of by post. [#94](https://eagle705.github.io/Note/issues/94)
+- Improve Jekyll search feature by removing poorly performing input box overlay on mobile and touch devices [#88](https://eagle705.github.io/Note/issues/88.
 - Move search form to dedicated page `/search/` and link to top navigation.
 
 ### Added
@@ -193,14 +193,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [1.3.1] - 09-12-2013
 
 ### Changed
-- Change order of navigation and browser upgrade includes. [#32](https://github.com/mmistakes/so-simple-theme/issues/32)
+- Change order of navigation and browser upgrade includes. [#32](https://eagle705.github.io/Note/issues/32)
 
 ### Added
 - Add Grunt build script for easier theme development. Preprocesses Less into CSS, concatenates and minifies JavaScript, and optimizes all images.
 - Add search by post title overlay using Christian Fei’s [Simple Jekyll jQuery plugin](https://github.com/christian-fei/Simple-Jekyll-Search).
 
 ### Fixed
-- Fix menu close action when clicking outside of it. [#29](https://github.com/mmistakes/so-simple-theme/issues/29)
+- Fix menu close action when clicking outside of it. [#29](https://eagle705.github.io/Note/issues/29)
 - Fix jumpy navigation that was being absolutely positioned on click.
 
 ## [1.3.0] - 09-11-2013
@@ -236,8 +236,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add non-intrusive image credit (for feature images).
 
 ### Fixed
-- Fix Pygment CSS conflict with MathJax. [#20](https://github.com/mmistakes/so-simple-theme/issues/20)
-- Fix RSS feed link in top navigation. [#21](https://github.com/mmistakes/so-simple-theme/issues/21)
+- Fix Pygment CSS conflict with MathJax. [#20](https://eagle705.github.io/Note/issues/20)
+- Fix RSS feed link in top navigation. [#21](https://eagle705.github.io/Note/issues/21)
 
 ## [1.2.8] - 07-30-2013
 

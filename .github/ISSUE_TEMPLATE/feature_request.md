@@ -5,7 +5,7 @@ about: "What would make this theme better?"
 
 <!--
   Before opening a new issue please search all issues at 
-  https://github.com/mmistakes/so-simple-theme/issues 
+  https://eagle705.github.io/Note/issues 
   to avoid duplication.
 -->
 

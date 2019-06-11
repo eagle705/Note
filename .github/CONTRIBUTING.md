@@ -7,8 +7,8 @@ Found a typo in the documentation? Requesting a feature or
 
 If your contribution adds or changes the theme's behavior, make sure to update the documentation and/or sample content. Documentation lives in README.md while sample posts, pages, and collections are in the [`docs`](docs) and [`example`](example) folders.
 
-[issues]: https://github.com/mmistakes/so-simple-theme/issues
-[new-issue]: https://github.com/mmistakes/so-simple-theme/issues/new
+[issues]: https://eagle705.github.io/Note/issues
+[new-issue]: https://eagle705.github.io/Note/issues/new
 [using-pull-requests]: https://help.github.com/articles/using-pull-requests/
 [github-flow]: https://guides.github.com/introduction/flow/
 

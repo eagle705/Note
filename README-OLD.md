@@ -41,12 +41,12 @@ If you are creating a new Jekyll site using So Simple follow these steps:
 
 If you want to use So Simple with an existing Jekyll site follow these steps:
 
-1. [Download So Simple](https://github.com/mmistakes/so-simple-theme/archive/master.zip) and unzip.
+1. [Download So Simple](https://eagle705.github.io/Note/archive/master.zip) and unzip.
 2. Rename `so-simple-theme-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install Jekyll and all dependencies.
 4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
 5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
-6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below. 
+6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below.
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 
@@ -102,7 +102,7 @@ so-simple-theme/
 ├── images/                      # images for posts and pages
 ├── 404.md                       # 404 page
 ├── feed.xml                     # Atom feed template
-├── index.md                     # sample homepage. lists 5 latest posts 
+├── index.md                     # sample homepage. lists 5 latest posts
 └── theme-setup/                 # theme setup page. safe to remove
 ```
 
@@ -136,7 +136,7 @@ Examples:
 url: https://mmistakes.github.io/so-simple-theme
 url: http://localhost:4000
 url: http://yourdomain.com
-url: 
+url:
 ```
 
 #### Google Analytics and Webmaster Tools
