@@ -115,9 +115,9 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 GitHub Gist embeds can also be used:
 
 ```html
-<script src="https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js"></script>
+<script src="https://gist.github.com/eagle705/77c68fbb07731a456805a7b473f47841.js"></script>
 ```
 
 Which outputs as:
 
-<script src="https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js"></script>
+<script src="https://gist.github.com/eagle705/77c68fbb07731a456805a7b473f47841.js"></script>
