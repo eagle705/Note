@@ -5,7 +5,7 @@ about: "What would make this theme better?"
 
 <!--
   Before opening a new issue please search all issues at 
-  https://eagle705.github.com/Note/issues 
+  https://github.com/eagle705/Note/issues 
   to avoid duplication.
 -->
 

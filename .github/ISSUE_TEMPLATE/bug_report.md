@@ -9,8 +9,8 @@ about: "Is something not working as expected?"
   - Verify you have the latest versions of Jekyll and So Simple 
     installed by running `bundle update`.
   - Thoroughly read the theme's documentation at
-    https://eagle705.github.com/Note
-  - Search all issues at https://eagle705.github.com/Note/issues 
+    https://github.com/eagle705/Note
+  - Search all issues at https://github.com/eagle705/Note/issues 
     for solutions and to avoid duplication.
   - Ask for help at https://talk.jekyllrb.com/
   

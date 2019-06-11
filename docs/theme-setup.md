@@ -5,7 +5,7 @@ permalink: /theme-setup/
 excerpt: "Instructions on how to install and use the Jekyll theme So Simple."
 last_modified_at: 2018-02-02T14:12:02-05:00
 redirect_to:
-  - https://eagle705.github.com/Note/blob/master/README.md
+  - https://github.com/eagle705/Note/blob/master/README.md
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
@@ -26,7 +26,7 @@ If you are creating a new Jekyll site using So Simple follow these steps:
 
 If you want to use So Simple with an existing Jekyll site follow these steps:
 
-1. [Download So Simple](https://eagle705.github.com/Note/archive/master.zip) and unzip.
+1. [Download So Simple](https://github.com/eagle705/Note/archive/master.zip) and unzip.
 2. Rename `Note-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install Jekyll and all dependencies.
 4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
@@ -119,7 +119,7 @@ Used to generate absolute URLs for sitemaps, feeds and for generating canonical 
 Examples:
 
 ```yaml
-url: https://eagle705.github.com/Note
+url: https://github.com/eagle705/Note
 url: http://localhost:4000
 url: http://yourdomain.com
 url: 
@@ -316,7 +316,7 @@ From the theme's root, run `grunt` to concatenate JavaScript files, and optimize
 
 ## Questions?
 
-Found a bug or aren't quite sure how something works? By all means Ping me on Twitter [@eagle705](http://twitter.com/eagle705) or [file a GitHub Issue](https://eagle705.github.com/Note/issues/new). And if you make something cool with this theme feel free to let me know.
+Found a bug or aren't quite sure how something works? By all means Ping me on Twitter [@eagle705](http://twitter.com/eagle705) or [file a GitHub Issue](https://github.com/eagle705/Note/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ---
 

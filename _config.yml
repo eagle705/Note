@@ -19,7 +19,7 @@ locale: en-US
 title: "Note: Meditation & Lectio Divina"
 description: "Standing on the Promises"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-url: "https://eagle705.github.io/Note" # the base hostname & protocol for your site e.g. "https://eagle705.github.com"
+url: "https://eagle705.github.io/Note" # the base hostname & protocol for your site e.g. "https://github.com/eagle705"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
