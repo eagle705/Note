@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Myself
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -9,24 +9,16 @@ comments: false
 modified: 2016-02-01
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+## 소개
+안녕하세요, 저는 Basic에 충실한 인생을 살고 싶은 소심청년입니다:)   
+어느덧 30대가 된 지금, 이제부터라도 삶을 살아가는 이 여정을 좀 더 체계적으로 기록하고자, 정리하고자 이 블로그를 시작하게 됐습니다.   
+저는 고민이 많은 성격입니다. 이 고민을 해결하기 위해 제가 할일은 해석은 제가 아닌 그 분께 있음을 믿으며 저의 고민을 질문으로 바꾸고 바뀌어진 질문을 물어보는 것이라 생각합니다.
+그것을 위한 기초작업으로 매일의 묵상과 매일의 고민을 하나씩 블로그에 정리하려합니다.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
 
-## HPSTR Features:
-
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+## 좋아하는 책
+- 복음이란 무엇인가 (김세윤)
+- 바른신앙을 위한 질문들 (김세윤)
+- 묵상의 여정 (박대영)
+- 교회를 꿈꾼다 (김형국)
+- To be continue..
