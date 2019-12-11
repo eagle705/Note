@@ -40,6 +40,8 @@ See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
 
 ## Quick setup
 
+- Jekyll installation on Mac: https://junhobaik.github.io/start-jekyll-blog/
+
 ```
 git clone https://github.com/renyuanz/leonids
 cd leonids
