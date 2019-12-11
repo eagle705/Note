@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "생각하지 않는 사람들 - 니콜라스 카 지음"
-subtitle:   "인터넷이 우리의 뇌 구조를 바꾸고 있다"
-categories: review
+excerpt:   "인터넷이 우리의 뇌 구조를 바꾸고 있다"
+categories: [review]
 tags: book
 comments: true
 ---

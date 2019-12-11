@@ -2,8 +2,8 @@
 layout: post
 title:  "블로그 시작"
 subtitle:   "졸업과 함께 블로그도 리뉴얼"
-categories: essay
-tags: essay
+excerpt: essay
+tags: [essay]
 comments: true
 ---
 
