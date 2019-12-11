@@ -1,11 +1,11 @@
 ---
 layout: post
-title: [마인드] 일상 마인드
-description: "일상마인드"
-tags: [Essay review]
-image:
-  background: triangular.png
+title: "[마인드] 일상 마인드"
+excerpt: "일상마인드"
+categories: Essay review
+comments: true
 ---
+
 
 #### 19.7.9 
 - 감사하자.

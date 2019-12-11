@@ -1,10 +1,9 @@
 ---
 layout: post
-title: [Book] 꺠달음의 혁명(이반일리치)
-description: "청어람"
-tags: [Essay review]
-image:
-  background: triangular.png
+title: "[Book] 꺠달음의 혁명(이반일리치)"
+excerpt: "청어람"
+categories: Essay review
+comments: true
 ---
 
 ## 진행

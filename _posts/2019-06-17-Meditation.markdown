@@ -1,10 +1,9 @@
 ---
 layout: post
-title: [단상] 일상의 단상들
-description: "단상"
-tags: [logs]
-image:
-  background: triangular.png
+title: "[단상] 일상의 단상들"
+excerpt: "단상"
+categories: logs
+comments: true
 ---
 
 #### 19.9.29 Lessons
