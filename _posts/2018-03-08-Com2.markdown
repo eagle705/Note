@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "회사생활 #2"
-subtitle:   "오랜만에 Java로 (+DL4J 후기)"
+excerpt:   "오랜만에 Java로 (+DL4J 후기)"
 categories: essay
 tags: 회사생활
 comments: true

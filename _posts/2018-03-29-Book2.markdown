@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "지적대화를 위한 넓고 얇은 지식"
-subtitle:   "-채사장 지음"
+excerpt:   "-채사장 지음"
 categories: review
 tags: book
 comments: true

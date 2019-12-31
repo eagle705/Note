@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Book] 꺠달음의 혁명(이반일리치)"
+title: "[Book] 깨달음의 혁명(이반일리치)"
 excerpt: "청어람"
 categories: Essay review
 comments: true

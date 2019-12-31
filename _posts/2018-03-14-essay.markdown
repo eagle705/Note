@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "회사생활 #3"
-subtitle:   "자기개발"
+excerpt:   "자기개발"
 categories: essay
 tags: 회사생활
 comments: true
