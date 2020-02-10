@@ -6,7 +6,7 @@
 title: eagle705's Note
 email: xelloss705@naver.com
 description: Better is one day in your court than a thousand elsewhere.
-url: https://eagle705.github.io/Note/ # the base hostname & protocol for your site
+url: https://eagle705.github.io/Note # the base hostname & protocol for your site
 keywords: ["Blog", "Note"]
 
 #
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: eagle705
-  avatar: leonids-logo.png
+  avatar: eagle705-logo.png
   job: "문과처럼(?) 살고 싶은 머신러닝 개발자"
   bio: "Better is one day in your court than a thousand elsewhere."
   email: xelloss705@naver.com
