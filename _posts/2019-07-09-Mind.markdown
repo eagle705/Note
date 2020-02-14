@@ -2,10 +2,10 @@
 layout: post
 title: "[마인드] 일상 마인드"
 excerpt: "일상마인드"
-categories: Essay review
+categories: Essay
 comments: true
 ---
-
+ 
 
 #### 19.7.9 
 - 감사하자.
