@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "아볼로 클럽 & 소심청년, 소명을 만나다"
+title: "소심청년, 소명을 만나다"
 excerpt: "소명을 마음에 품은 소심 청년들에게"
 categories: Book review
 comments: true
