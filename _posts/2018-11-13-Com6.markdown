@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "회사생활 #6"
-excerpt:   "회사생활 3.0"
+excerpt:   "회사생활 3.0 (중간점검 2)"
 categories: company
 tags: 회사생활
 comments: true

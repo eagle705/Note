@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "회사생활 #1"
-excerpt:   "업무를 받았다"
-categories: essay
+excerpt:   "첫 업무 받은 후기"
+categories: company
 tags: 회사생활
 comments: true
 ---
