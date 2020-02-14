@@ -2,7 +2,7 @@
 layout: post
 title:  "회사생활 #6"
 excerpt:   "회사생활 3.0"
-categories: essay
+categories: company
 tags: 회사생활
 comments: true
 ---

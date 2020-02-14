@@ -2,7 +2,8 @@
 layout: post
 title: "소심청년, 소명을 만나다"
 excerpt: "소명을 마음에 품은 소심 청년들에게"
-categories: Book review
+categories: Book
+tags: book
 comments: true
 ---
 
